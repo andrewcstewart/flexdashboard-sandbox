@@ -1,0 +1,9 @@
+{
+    "path" : "~/Code/flexdashboard-test",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

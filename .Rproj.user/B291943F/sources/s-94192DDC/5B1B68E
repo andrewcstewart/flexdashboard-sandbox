@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554973659868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "291380856",
+    "id" : "5B1B68E",
+    "lastKnownWriteTime" : 1554976326,
+    "last_content_update" : 1554976326868,
+    "path" : "~/Code/flexdashboard-test/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,48",
+        "last_setup_crc32" : "",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
